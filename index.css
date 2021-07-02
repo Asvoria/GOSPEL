@@ -1,0 +1,11 @@
+#headlines {
+  float: left;
+  width:100%;
+  font-family: Helvetica;
+}
+p {
+  display: block;
+  float: right;
+  width: 100%;
+  font-family: Helvetica;
+}
